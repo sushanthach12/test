@@ -1,5 +1,0 @@
-{{#user}}
-Name: Sushanth Acharya
-Skills: JS, TS, Next.js, NestJs
-Email: sushacharya7758@gmail.com
-{{/user}}
